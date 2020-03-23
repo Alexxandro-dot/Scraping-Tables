@@ -1,0 +1,1882 @@
+[
+    {
+        "country_name": "China",
+        "population": "1,402,405,170",
+        "yearly_change": "-0.38 %",
+        "median_age": "47.6",
+        "fertility_rate": "1.69",
+        "urban_population": "1,091,948,003"
+    },
+    {
+        "country_name": "Nigeria",
+        "population": "401,315,000",
+        "yearly_change": "1.93 %",
+        "median_age": "22.4",
+        "fertility_rate": "5.42",
+        "urban_population": "287,130,349"
+    },
+    {
+        "country_name": "Brazil",
+        "population": "228,980,400",
+        "yearly_change": "-0.05 %",
+        "median_age": "45.1",
+        "fertility_rate": "1.74",
+        "urban_population": "215,063,348"
+    },
+    {
+        "country_name": "Egypt",
+        "population": "159,956,808",
+        "yearly_change": "1.25 %",
+        "median_age": "29.7",
+        "fertility_rate": "3.33",
+        "urban_population": "85,320,777"
+    },
+    {
+        "country_name": "Pakistan",
+        "population": "338,013,196",
+        "yearly_change": "1.06 %",
+        "median_age": "30.0",
+        "fertility_rate": "3.55",
+        "urban_population": "160,228,128"
+    },
+    {
+        "country_name": "Bangladesh",
+        "population": "192,567,778",
+        "yearly_change": "0.15 %",
+        "median_age": "40.0",
+        "fertility_rate": "2.05",
+        "urban_population": "117,836,927"
+    },
+    {
+        "country_name": "Mexico",
+        "population": "155,150,818",
+        "yearly_change": "0.29 %",
+        "median_age": "39.3",
+        "fertility_rate": "2.14",
+        "urban_population": "144,909,934"
+    },
+    {
+        "country_name": "Ethiopia",
+        "population": "205,410,675",
+        "yearly_change": "1.51 %",
+        "median_age": "27.3",
+        "fertility_rate": "4.30",
+        "urban_population": "74,536,815"
+    },
+    {
+        "country_name": "Philippines",
+        "population": "144,488,158",
+        "yearly_change": "0.57 %",
+        "median_age": "34.7",
+        "fertility_rate": "2.58",
+        "urban_population": "93,465,067"
+    },
+    {
+        "country_name": "Russia",
+        "population": "135,824,481",
+        "yearly_change": "-0.22 %",
+        "median_age": "41.7",
+        "fertility_rate": "1.82",
+        "urban_population": "110,604,995"
+    },
+    {
+        "country_name": "Japan",
+        "population": "105,804,027",
+        "yearly_change": "-0.69 %",
+        "median_age": "54.7",
+        "fertility_rate": "1.37",
+        "urban_population": "103,038,909"
+    },
+    {
+        "country_name": "India",
+        "population": "1,639,176,033",
+        "yearly_change": "0.23 %",
+        "median_age": "38.1",
+        "fertility_rate": "2.24",
+        "urban_population": "876,613,025"
+    },
+    {
+        "country_name": "Indonesia",
+        "population": "330,904,664",
+        "yearly_change": "0.32 %",
+        "median_age": "37.4",
+        "fertility_rate": "2.32",
+        "urban_population": "234,104,967"
+    },
+    {
+        "country_name": "Uganda",
+        "population": "89,446,904",
+        "yearly_change": "1.75 %",
+        "median_age": "24.8",
+        "fertility_rate": "5.01",
+        "urban_population": "46,663,616"
+    },
+    {
+        "country_name": "Saint Barthelemy",
+        "population": "10,831",
+        "yearly_change": "0.24 %",
+        "median_age": "0 %",
+        "fertility_rate": "0",
+        "urban_population": "227"
+    },
+    {
+        "country_name": "Holy See",
+        "population": "814",
+        "yearly_change": "0.4 %",
+        "median_age": "99 %",
+        "fertility_rate": "806",
+        "urban_population": "235"
+    },
+    {
+        "country_name": "United States",
+        "population": "379,419,102",
+        "yearly_change": "0.32 %",
+        "median_age": "42.7",
+        "fertility_rate": "1.78",
+        "urban_population": "347,346,215"
+    },
+    {
+        "country_name": "Tokelau",
+        "population": "1,565",
+        "yearly_change": "0.36 %",
+        "median_age": "0 %",
+        "fertility_rate": "0",
+        "urban_population": "234"
+    },
+    {
+        "country_name": "Argentina",
+        "population": "54,867,256",
+        "yearly_change": "0.44 %",
+        "median_age": "38.2",
+        "fertility_rate": "2.27",
+        "urban_population": "52,564,488"
+    },
+    {
+        "country_name": "Niue",
+        "population": "1,778",
+        "yearly_change": "0.3 %",
+        "median_age": "61.6 %",
+        "fertility_rate": "1,096",
+        "urban_population": "233"
+    },
+    {
+        "country_name": "Falkland Islands",
+        "population": "3,243",
+        "yearly_change": "-0.29 %",
+        "median_age": "75.8 %",
+        "fertility_rate": "2,457",
+        "urban_population": "232"
+    },
+    {
+        "country_name": "Montserrat",
+        "population": "4,153",
+        "yearly_change": "-0.8 %",
+        "median_age": "17.6 %",
+        "fertility_rate": "730",
+        "urban_population": "231"
+    },
+    {
+        "country_name": "Saint Pierre & Miquelon",
+        "population": "5,247",
+        "yearly_change": "-0.69 %",
+        "median_age": "N.A.",
+        "fertility_rate": "N.A.",
+        "urban_population": "230"
+    },
+    {
+        "country_name": "Saint Helena",
+        "population": "5,783",
+        "yearly_change": "-0.5 %",
+        "median_age": "37.2 %",
+        "fertility_rate": "2,150",
+        "urban_population": "229"
+    },
+    {
+        "country_name": "Nauru",
+        "population": "10,794",
+        "yearly_change": "-0.28 %",
+        "median_age": "N.A.",
+        "fertility_rate": "N.A.",
+        "urban_population": "226"
+    },
+    {
+        "country_name": "Wallis & Futuna",
+        "population": "9,131",
+        "yearly_change": "-0.76 %",
+        "median_age": "0 %",
+        "fertility_rate": "0",
+        "urban_population": "228"
+    },
+    {
+        "country_name": "Tuvalu",
+        "population": "15,983",
+        "yearly_change": "0.9 %",
+        "median_age": "70.8 %",
+        "fertility_rate": "11,310",
+        "urban_population": "225"
+    },
+    {
+        "country_name": "Cook Islands",
+        "population": "17,081",
+        "yearly_change": "-0.2 %",
+        "median_age": "87 %",
+        "fertility_rate": "14,863",
+        "urban_population": "223"
+    },
+    {
+        "country_name": "Palau",
+        "population": "17,718",
+        "yearly_change": "-0.39 %",
+        "median_age": "N.A.",
+        "fertility_rate": "N.A.",
+        "urban_population": "222"
+    },
+    {
+        "country_name": "Caribbean Netherlands",
+        "population": "29,706",
+        "yearly_change": "0.19 %",
+        "median_age": "82.1 %",
+        "fertility_rate": "24,394",
+        "urban_population": "221"
+    },
+    {
+        "country_name": "Gibraltar",
+        "population": "33,917",
+        "yearly_change": "-0.11 %",
+        "median_age": "N.A.",
+        "fertility_rate": "N.A.",
+        "urban_population": "218"
+    },
+    {
+        "country_name": "Anguilla",
+        "population": "16,517",
+        "yearly_change": "-0.03 %",
+        "median_age": "94.7 %",
+        "fertility_rate": "15,649",
+        "urban_population": "224"
+    },
+    {
+        "country_name": "San Marino",
+        "population": "33,640",
+        "yearly_change": "-0.26 %",
+        "median_age": "N.A.",
+        "fertility_rate": "N.A.",
+        "urban_population": "219"
+    },
+    {
+        "country_name": "Liechtenstein",
+        "population": "40,360",
+        "yearly_change": "0.02 %",
+        "median_age": "22.1 %",
+        "fertility_rate": "8,939",
+        "urban_population": "217"
+    },
+    {
+        "country_name": "British Virgin Islands",
+        "population": "31,541",
+        "yearly_change": "-0.3 %",
+        "median_age": "73.1 %",
+        "fertility_rate": "23,063",
+        "urban_population": "220"
+    },
+    {
+        "country_name": "Sint Maarten",
+        "population": "55,017",
+        "yearly_change": "0.55 %",
+        "median_age": "94.9 %",
+        "fertility_rate": "52,238",
+        "urban_population": "209"
+    },
+    {
+        "country_name": "Faeroe Islands",
+        "population": "53,466",
+        "yearly_change": "0.12 %",
+        "median_age": "54.2 %",
+        "fertility_rate": "28,992",
+        "urban_population": "213"
+    },
+    {
+        "country_name": "Saint Martin",
+        "population": "50,825",
+        "yearly_change": "0.63 %",
+        "median_age": "0 %",
+        "fertility_rate": "0",
+        "urban_population": "214"
+    },
+    {
+        "country_name": "Saint Kitts & Nevis",
+        "population": "56,161",
+        "yearly_change": "-0.16 %",
+        "median_age": "45.5 %",
+        "fertility_rate": "25,561",
+        "urban_population": "208"
+    },
+    {
+        "country_name": "American Samoa",
+        "population": "53,581",
+        "yearly_change": "-0.13 %",
+        "median_age": "96.1 %",
+        "fertility_rate": "51,518",
+        "urban_population": "211"
+    },
+    {
+        "country_name": "Turks and Caicos",
+        "population": "50,273",
+        "yearly_change": "0.46 %",
+        "median_age": "92 %",
+        "fertility_rate": "46,273",
+        "urban_population": "215"
+    },
+    {
+        "country_name": "Monaco",
+        "population": "46,002",
+        "yearly_change": "0.46 %",
+        "median_age": "99.3 %",
+        "fertility_rate": "45,685",
+        "urban_population": "216"
+    },
+    {
+        "country_name": "Greenland",
+        "population": "53,300",
+        "yearly_change": "-0.45 %",
+        "median_age": "93 %",
+        "fertility_rate": "49,565",
+        "urban_population": "212"
+    },
+    {
+        "country_name": "Northern Mariana Islands",
+        "population": "62,032",
+        "yearly_change": "-0.2 %",
+        "median_age": "80 %",
+        "fertility_rate": "49,651",
+        "urban_population": "207"
+    },
+    {
+        "country_name": "Marshall Islands",
+        "population": "75,365",
+        "yearly_change": "0.47 %",
+        "median_age": "74.9 %",
+        "fertility_rate": "56,454",
+        "urban_population": "205"
+    },
+    {
+        "country_name": "Bermuda",
+        "population": "53,278",
+        "yearly_change": "-0.82 %",
+        "median_age": "N.A.",
+        "fertility_rate": "N.A.",
+        "urban_population": "210"
+    },
+    {
+        "country_name": "Andorra",
+        "population": "76,118",
+        "yearly_change": "-0.31 %",
+        "median_age": "91.5 %",
+        "fertility_rate": "69,653",
+        "urban_population": "204"
+    },
+    {
+        "country_name": "Isle of Man",
+        "population": "90,748",
+        "yearly_change": "0.02 %",
+        "median_age": "68.1 %",
+        "fertility_rate": "61,767",
+        "urban_population": "201"
+    },
+    {
+        "country_name": "Cayman Islands",
+        "population": "84,655",
+        "yearly_change": "0.49 %",
+        "median_age": "96.3 %",
+        "fertility_rate": "81,488",
+        "urban_population": "203"
+    },
+    {
+        "country_name": "Dominica",
+        "population": "70,877",
+        "yearly_change": "-0.25 %",
+        "median_age": "86.6 %",
+        "fertility_rate": "61,385",
+        "urban_population": "206"
+    },
+    {
+        "country_name": "Antigua and Barbuda",
+        "population": "110,896",
+        "yearly_change": "0.11 %",
+        "median_age": "41.3",
+        "fertility_rate": "2.00",
+        "urban_population": "38,799"
+    },
+    {
+        "country_name": "Seychelles",
+        "population": "104,565",
+        "yearly_change": "-0.08 %",
+        "median_age": "38.6",
+        "fertility_rate": "2.46",
+        "urban_population": "67,254"
+    },
+    {
+        "country_name": "U.S. Virgin Islands",
+        "population": "86,220",
+        "yearly_change": "-0.95 %",
+        "median_age": "45.9",
+        "fertility_rate": "2.05",
+        "urban_population": "N.A."
+    },
+    {
+        "country_name": "Tonga",
+        "population": "134,180",
+        "yearly_change": "0.59 %",
+        "median_age": "28.2",
+        "fertility_rate": "3.58",
+        "urban_population": "41,654"
+    },
+    {
+        "country_name": "Grenada",
+        "population": "115,564",
+        "yearly_change": "-0.12 %",
+        "median_age": "39.6",
+        "fertility_rate": "2.07",
+        "urban_population": "51,806"
+    },
+    {
+        "country_name": "Micronesia",
+        "population": "138,917",
+        "yearly_change": "0.27 %",
+        "median_age": "29.7 %",
+        "fertility_rate": "41,230",
+        "urban_population": "194"
+    },
+    {
+        "country_name": "Aruba",
+        "population": "108,716",
+        "yearly_change": "-0.23 %",
+        "median_age": "43.3",
+        "fertility_rate": "1.90",
+        "urban_population": "58,214"
+    },
+    {
+        "country_name": "St. Vincent & Grenadines",
+        "population": "109,113",
+        "yearly_change": "-0.36 %",
+        "median_age": "42.0",
+        "fertility_rate": "1.90",
+        "urban_population": "71,691"
+    },
+    {
+        "country_name": "Kiribati",
+        "population": "176,708",
+        "yearly_change": "1.12 %",
+        "median_age": "28.6",
+        "fertility_rate": "3.58",
+        "urban_population": "125,666"
+    },
+    {
+        "country_name": "Cura\u00e7ao",
+        "population": "175,722",
+        "yearly_change": "0.03 %",
+        "median_age": "45.3",
+        "fertility_rate": "1.76",
+        "urban_population": "166,564"
+    },
+    {
+        "country_name": "Guam",
+        "population": "192,780",
+        "yearly_change": "0.12 %",
+        "median_age": "39.9",
+        "fertility_rate": "2.32",
+        "urban_population": "186,513"
+    },
+    {
+        "country_name": "Channel Islands",
+        "population": "199,421",
+        "yearly_change": "0.27 %",
+        "median_age": "47.6",
+        "fertility_rate": "1.50",
+        "urban_population": "71,096"
+    },
+    {
+        "country_name": "Saint Lucia",
+        "population": "182,129",
+        "yearly_change": "-0.38 %",
+        "median_age": "48.4",
+        "fertility_rate": "1.44",
+        "urban_population": "48,562"
+    },
+    {
+        "country_name": "Samoa",
+        "population": "267,391",
+        "yearly_change": "0.87 %",
+        "median_age": "27.9",
+        "fertility_rate": "3.90",
+        "urban_population": "52,365"
+    },
+    {
+        "country_name": "Sao Tome & Principe",
+        "population": "394,153",
+        "yearly_change": "1.79 %",
+        "median_age": "24.4",
+        "fertility_rate": "4.35",
+        "urban_population": "323,753"
+    },
+    {
+        "country_name": "Mayotte",
+        "population": "494,839",
+        "yearly_change": "1.57 %",
+        "median_age": "28.9",
+        "fertility_rate": "3.73",
+        "urban_population": "264,489"
+    },
+    {
+        "country_name": "French Polynesia",
+        "population": "310,654",
+        "yearly_change": "0.04 %",
+        "median_age": "43.0",
+        "fertility_rate": "1.95",
+        "urban_population": "227,666"
+    },
+    {
+        "country_name": "New Caledonia",
+        "population": "346,510",
+        "yearly_change": "0.37 %",
+        "median_age": "41.8",
+        "fertility_rate": "1.97",
+        "urban_population": "306,203"
+    },
+    {
+        "country_name": "Barbados",
+        "population": "277,011",
+        "yearly_change": "-0.39 %",
+        "median_age": "47.3",
+        "fertility_rate": "1.62",
+        "urban_population": "114,418"
+    },
+    {
+        "country_name": "French Guiana",
+        "population": "544,807",
+        "yearly_change": "1.62 %",
+        "median_age": "31.1",
+        "fertility_rate": "3.36",
+        "urban_population": "493,365"
+    },
+    {
+        "country_name": "Vanuatu",
+        "population": "556,756",
+        "yearly_change": "1.70 %",
+        "median_age": "26.5",
+        "fertility_rate": "3.80",
+        "urban_population": "163,020"
+    },
+    {
+        "country_name": "Iceland",
+        "population": "376,693",
+        "yearly_change": "0.09 %",
+        "median_age": "45.1",
+        "fertility_rate": "1.77",
+        "urban_population": "373,768"
+    },
+    {
+        "country_name": "Martinique",
+        "population": "331,960",
+        "yearly_change": "-0.76 %",
+        "median_age": "48.7",
+        "fertility_rate": "1.88",
+        "urban_population": "328,921"
+    },
+    {
+        "country_name": "Bahamas",
+        "population": "463,333",
+        "yearly_change": "0.23 %",
+        "median_age": "41.3",
+        "fertility_rate": "1.76",
+        "urban_population": "419,945"
+    },
+    {
+        "country_name": "Belize",
+        "population": "571,042",
+        "yearly_change": "0.74 %",
+        "median_age": "36.2",
+        "fertility_rate": "2.32",
+        "urban_population": "338,138"
+    },
+    {
+        "country_name": "Guadeloupe",
+        "population": "386,922",
+        "yearly_change": "-0.33 %",
+        "median_age": "44.6",
+        "fertility_rate": "2.17",
+        "urban_population": "N.A."
+    },
+    {
+        "country_name": "Brunei ",
+        "population": "492,385",
+        "yearly_change": "0.00 %",
+        "median_age": "43.9",
+        "fertility_rate": "1.85",
+        "urban_population": "459,837"
+    },
+    {
+        "country_name": "Malta",
+        "population": "426,787",
+        "yearly_change": "-0.31 %",
+        "median_age": "51.0",
+        "fertility_rate": "1.45",
+        "urban_population": "404,948"
+    },
+    {
+        "country_name": "Maldives",
+        "population": "586,100",
+        "yearly_change": "0.45 %",
+        "median_age": "45.7",
+        "fertility_rate": "1.88",
+        "urban_population": "310,545"
+    },
+    {
+        "country_name": "Cabo Verde",
+        "population": "679,394",
+        "yearly_change": "0.34 %",
+        "median_age": "38.9",
+        "fertility_rate": "2.29",
+        "urban_population": "568,705"
+    },
+    {
+        "country_name": "Suriname",
+        "population": "680,241",
+        "yearly_change": "0.19 %",
+        "median_age": "36.3",
+        "fertility_rate": "2.43",
+        "urban_population": "480,037"
+    },
+    {
+        "country_name": "Western Sahara",
+        "population": "984,023",
+        "yearly_change": "1.20 %",
+        "median_age": "35.9",
+        "fertility_rate": "2.41",
+        "urban_population": "890,204"
+    },
+    {
+        "country_name": "Luxembourg",
+        "population": "789,942",
+        "yearly_change": "0.56 %",
+        "median_age": "45.0",
+        "fertility_rate": "1.45",
+        "urban_population": "756,649"
+    },
+    {
+        "country_name": "Montenegro",
+        "population": "589,333",
+        "yearly_change": "-0.37 %",
+        "median_age": "44.8",
+        "fertility_rate": "1.75",
+        "urban_population": "454,345"
+    },
+    {
+        "country_name": "Macao",
+        "population": "838,368",
+        "yearly_change": "0.55 %",
+        "median_age": "50.5",
+        "fertility_rate": "1.20",
+        "urban_population": "N.A."
+    },
+    {
+        "country_name": "Solomon Islands",
+        "population": "1,290,216",
+        "yearly_change": "1.85 %",
+        "median_age": "24.6",
+        "fertility_rate": "4.44",
+        "urban_population": "385,392"
+    },
+    {
+        "country_name": "Guyana",
+        "population": "824,957",
+        "yearly_change": "-0.19 %",
+        "median_age": "35.7",
+        "fertility_rate": "2.47",
+        "urban_population": "295,494"
+    },
+    {
+        "country_name": "Comoros",
+        "population": "1,471,737",
+        "yearly_change": "1.45 %",
+        "median_age": "26.1",
+        "fertility_rate": "4.24",
+        "urban_population": "599,041"
+    },
+    {
+        "country_name": "R\u00e9union",
+        "population": "1,009,876",
+        "yearly_change": "0.07 %",
+        "median_age": "42.7",
+        "fertility_rate": "2.27",
+        "urban_population": "N.A."
+    },
+    {
+        "country_name": "Bhutan",
+        "population": "904,616",
+        "yearly_change": "0.16 %",
+        "median_age": "42.1",
+        "fertility_rate": "2.00",
+        "urban_population": "573,267"
+    },
+    {
+        "country_name": "Fiji",
+        "population": "1,071,255",
+        "yearly_change": "0.38 %",
+        "median_age": "32.7",
+        "fertility_rate": "2.79",
+        "urban_population": "697,673"
+    },
+    {
+        "country_name": "Djibouti",
+        "population": "1,295,373",
+        "yearly_change": "0.58 %",
+        "median_age": "35.7",
+        "fertility_rate": "2.76",
+        "urban_population": "1,107,450"
+    },
+    {
+        "country_name": "Eswatini",
+        "population": "1,704,428",
+        "yearly_change": "1.15 %",
+        "median_age": "29.1",
+        "fertility_rate": "3.03",
+        "urban_population": "703,038"
+    },
+    {
+        "country_name": "Mauritius",
+        "population": "1,185,529",
+        "yearly_change": "-0.54 %",
+        "median_age": "47.7",
+        "fertility_rate": "1.39",
+        "urban_population": "604,348"
+    },
+    {
+        "country_name": "Cyprus",
+        "population": "1,354,591",
+        "yearly_change": "0.19 %",
+        "median_age": "47.9",
+        "fertility_rate": "1.34",
+        "urban_population": "1,029,826"
+    },
+    {
+        "country_name": "Timor-Leste",
+        "population": "2,019,291",
+        "yearly_change": "1.05 %",
+        "median_age": "28.3",
+        "fertility_rate": "4.10",
+        "urban_population": "1,058,997"
+    },
+    {
+        "country_name": "Estonia",
+        "population": "1,158,408",
+        "yearly_change": "-0.52 %",
+        "median_age": "48.2",
+        "fertility_rate": "1.59",
+        "urban_population": "885,226"
+    },
+    {
+        "country_name": "Trinidad and Tobago",
+        "population": "1,343,789",
+        "yearly_change": "-0.40 %",
+        "median_age": "44.2",
+        "fertility_rate": "1.73",
+        "urban_population": "812,285"
+    },
+    {
+        "country_name": "Bahrain",
+        "population": "2,316,049",
+        "yearly_change": "0.45 %",
+        "median_age": "39.9",
+        "fertility_rate": "2.00",
+        "urban_population": "2,168,914"
+    },
+    {
+        "country_name": "Latvia",
+        "population": "1,479,172",
+        "yearly_change": "-0.65 %",
+        "median_age": "45.8",
+        "fertility_rate": "1.72",
+        "urban_population": "1,152,069"
+    },
+    {
+        "country_name": "Slovenia",
+        "population": "1,939,592",
+        "yearly_change": "-0.36 %",
+        "median_age": "49.6",
+        "fertility_rate": "1.60",
+        "urban_population": "1,335,084"
+    },
+    {
+        "country_name": "Guinea-Bissau",
+        "population": "3,557,201",
+        "yearly_change": "1.66 %",
+        "median_age": "24.6",
+        "fertility_rate": "4.51",
+        "urban_population": "2,061,916"
+    },
+    {
+        "country_name": "North Macedonia",
+        "population": "1,856,775",
+        "yearly_change": "-0.60 %",
+        "median_age": "48.3",
+        "fertility_rate": "1.50",
+        "urban_population": "1,405,212"
+    },
+    {
+        "country_name": "Lesotho",
+        "population": "2,665,270",
+        "yearly_change": "0.57 %",
+        "median_age": "29.8",
+        "fertility_rate": "3.16",
+        "urban_population": "1,484,831"
+    },
+    {
+        "country_name": "Equatorial Guinea",
+        "population": "2,820,925",
+        "yearly_change": "1.76 %",
+        "median_age": "26.2",
+        "fertility_rate": "4.55",
+        "urban_population": "2,355,543"
+    },
+    {
+        "country_name": "Gabon",
+        "population": "3,809,050",
+        "yearly_change": "1.50 %",
+        "median_age": "27.5",
+        "fertility_rate": "4.00",
+        "urban_population": "3,339,415"
+    },
+    {
+        "country_name": "Namibia",
+        "population": "3,981,130",
+        "yearly_change": "1.25 %",
+        "median_age": "28.1",
+        "fertility_rate": "3.42",
+        "urban_population": "3,116,044"
+    },
+    {
+        "country_name": "Albania",
+        "population": "2,424,061",
+        "yearly_change": "-0.88 %",
+        "median_age": "50.0",
+        "fertility_rate": "1.62",
+        "urban_population": "2,083,271"
+    },
+    {
+        "country_name": "Botswana",
+        "population": "3,509,819",
+        "yearly_change": "0.95 %",
+        "median_age": "32.3",
+        "fertility_rate": "2.89",
+        "urban_population": "2,870,743"
+    },
+    {
+        "country_name": "Gambia",
+        "population": "4,882,101",
+        "yearly_change": "1.90 %",
+        "median_age": "23.5",
+        "fertility_rate": "5.25",
+        "urban_population": "3,523,313"
+    },
+    {
+        "country_name": "Lithuania",
+        "population": "2,121,397",
+        "yearly_change": "-0.70 %",
+        "median_age": "48.1",
+        "fertility_rate": "1.67",
+        "urban_population": "1,879,932"
+    },
+    {
+        "country_name": "Puerto Rico",
+        "population": "2,445,386",
+        "yearly_change": "-1.02 %",
+        "median_age": "50.8",
+        "fertility_rate": "1.22",
+        "urban_population": "N.A."
+    },
+    {
+        "country_name": "Qatar",
+        "population": "3,851,131",
+        "yearly_change": "0.55 %",
+        "median_age": "41.4",
+        "fertility_rate": "1.88",
+        "urban_population": "3,762,103"
+    },
+    {
+        "country_name": "Jamaica",
+        "population": "2,960,317",
+        "yearly_change": "-0.34 %",
+        "median_age": "41.5",
+        "fertility_rate": "1.99",
+        "urban_population": "1,904,123"
+    },
+    {
+        "country_name": "Armenia",
+        "population": "2,816,112",
+        "yearly_change": "-0.34 %",
+        "median_age": "43.2",
+        "fertility_rate": "1.76",
+        "urban_population": "2,004,977"
+    },
+    {
+        "country_name": "Mongolia",
+        "population": "4,448,930",
+        "yearly_change": "0.81 %",
+        "median_age": "32.7",
+        "fertility_rate": "2.90",
+        "urban_population": "3,167,269"
+    },
+    {
+        "country_name": "Bosnia and Herzegovina",
+        "population": "2,685,037",
+        "yearly_change": "-0.89 %",
+        "median_age": "51.4",
+        "fertility_rate": "1.27",
+        "urban_population": "1,975,983"
+    },
+    {
+        "country_name": "Uruguay",
+        "population": "3,639,109",
+        "yearly_change": "0.01 %",
+        "median_age": "42.5",
+        "fertility_rate": "1.98",
+        "urban_population": "3,567,170"
+    },
+    {
+        "country_name": "Eritrea",
+        "population": "6,005,490",
+        "yearly_change": "1.53 %",
+        "median_age": "26.0",
+        "fertility_rate": "4.10",
+        "urban_population": "5,776,366"
+    },
+    {
+        "country_name": "Georgia",
+        "population": "3,516,865",
+        "yearly_change": "-0.50 %",
+        "median_age": "40.9",
+        "fertility_rate": "2.06",
+        "urban_population": "2,482,576"
+    },
+    {
+        "country_name": "Moldova",
+        "population": "3,360,177",
+        "yearly_change": "-0.83 %",
+        "median_age": "48.9",
+        "fertility_rate": "1.26",
+        "urban_population": "1,873,266"
+    },
+    {
+        "country_name": "Croatia",
+        "population": "3,364,800",
+        "yearly_change": "-0.77 %",
+        "median_age": "50.9",
+        "fertility_rate": "1.45",
+        "urban_population": "2,467,982"
+    },
+    {
+        "country_name": "Kuwait",
+        "population": "5,393,472",
+        "yearly_change": "0.34 %",
+        "median_age": "38.6",
+        "fertility_rate": "2.10",
+        "urban_population": "N.A."
+    },
+    {
+        "country_name": "Panama",
+        "population": "5,852,947",
+        "yearly_change": "0.67 %",
+        "median_age": "37.6",
+        "fertility_rate": "2.47",
+        "urban_population": "4,652,366"
+    },
+    {
+        "country_name": "Mauritania",
+        "population": "9,024,892",
+        "yearly_change": "1.90 %",
+        "median_age": "24.7",
+        "fertility_rate": "4.59",
+        "urban_population": "6,532,273"
+    },
+    {
+        "country_name": "New Zealand",
+        "population": "5,607,793",
+        "yearly_change": "0.28 %",
+        "median_age": "43.7",
+        "fertility_rate": "1.90",
+        "urban_population": "5,200,447"
+    },
+    {
+        "country_name": "Central African Republic",
+        "population": "8,400,956",
+        "yearly_change": "1.46 %",
+        "median_age": "24.0",
+        "fertility_rate": "4.75",
+        "urban_population": "5,329,336"
+    },
+    {
+        "country_name": "Ireland",
+        "population": "5,677,615",
+        "yearly_change": "0.29 %",
+        "median_age": "44.2",
+        "fertility_rate": "1.84",
+        "urban_population": "4,354,062"
+    },
+    {
+        "country_name": "Liberia",
+        "population": "9,339,752",
+        "yearly_change": "1.71 %",
+        "median_age": "24.9",
+        "fertility_rate": "4.35",
+        "urban_population": "6,689,194"
+    },
+    {
+        "country_name": "Costa Rica",
+        "population": "5,772,699",
+        "yearly_change": "0.08 %",
+        "median_age": "45.8",
+        "fertility_rate": "1.76",
+        "urban_population": "5,204,720"
+    },
+    {
+        "country_name": "Oman",
+        "population": "6,915,444",
+        "yearly_change": "0.72 %",
+        "median_age": "38.4",
+        "fertility_rate": "2.93",
+        "urban_population": "6,409,863"
+    },
+    {
+        "country_name": "Norway",
+        "population": "6,600,338",
+        "yearly_change": "0.49 %",
+        "median_age": "44.1",
+        "fertility_rate": "1.68",
+        "urban_population": "6,137,995"
+    },
+    {
+        "country_name": "Slovakia",
+        "population": "4,983,648",
+        "yearly_change": "-0.47 %",
+        "median_age": "49.1",
+        "fertility_rate": "1.50",
+        "urban_population": "3,260,503"
+    },
+    {
+        "country_name": "State of Palestine",
+        "population": "8,815,774",
+        "yearly_change": "1.42 %",
+        "median_age": "29.1",
+        "fertility_rate": "3.67",
+        "urban_population": "8,292,644"
+    },
+    {
+        "country_name": "Congo",
+        "population": "10,701,994",
+        "yearly_change": "1.93 %",
+        "median_age": "23.6",
+        "fertility_rate": "4.45",
+        "urban_population": "9,207,524"
+    },
+    {
+        "country_name": "Finland",
+        "population": "5,486,143",
+        "yearly_change": "-0.12 %",
+        "median_age": "47.3",
+        "fertility_rate": "1.53",
+        "urban_population": "5,282,359"
+    },
+    {
+        "country_name": "Denmark",
+        "population": "6,245,374",
+        "yearly_change": "0.15 %",
+        "median_age": "44.2",
+        "fertility_rate": "1.76",
+        "urban_population": "5,829,371"
+    },
+    {
+        "country_name": "Singapore",
+        "population": "6,407,532",
+        "yearly_change": "-0.12 %",
+        "median_age": "53.4",
+        "fertility_rate": "1.21",
+        "urban_population": "N.A."
+    },
+    {
+        "country_name": "Turkmenistan",
+        "population": "7,949,281",
+        "yearly_change": "0.64 %",
+        "median_age": "33.0",
+        "fertility_rate": "2.79",
+        "urban_population": "5,433,187"
+    },
+    {
+        "country_name": "El Salvador",
+        "population": "6,936,786",
+        "yearly_change": "-0.05 %",
+        "median_age": "39.3",
+        "fertility_rate": "2.05",
+        "urban_population": "5,983,999"
+    },
+    {
+        "country_name": "Kyrgyzstan",
+        "population": "9,126,108",
+        "yearly_change": "0.89 %",
+        "median_age": "31.5",
+        "fertility_rate": "3.00",
+        "urban_population": "4,346,012"
+    },
+    {
+        "country_name": "Nicaragua",
+        "population": "8,531,048",
+        "yearly_change": "0.52 %",
+        "median_age": "37.1",
+        "fertility_rate": "2.42",
+        "urban_population": "5,624,111"
+    },
+    {
+        "country_name": "Lebanon",
+        "population": "6,528,164",
+        "yearly_change": "0.19 %",
+        "median_age": "42.6",
+        "fertility_rate": "2.09",
+        "urban_population": "5,052,040"
+    },
+    {
+        "country_name": "Libya",
+        "population": "8,525,414",
+        "yearly_change": "0.38 %",
+        "median_age": "38.3",
+        "fertility_rate": "2.25",
+        "urban_population": "7,184,097"
+    },
+    {
+        "country_name": "Bulgaria",
+        "population": "5,385,441",
+        "yearly_change": "-0.86 %",
+        "median_age": "48.1",
+        "fertility_rate": "1.56",
+        "urban_population": "4,606,350"
+    },
+    {
+        "country_name": "Paraguay",
+        "population": "9,101,631",
+        "yearly_change": "0.49 %",
+        "median_age": "35.3",
+        "fertility_rate": "2.45",
+        "urban_population": "6,607,228"
+    },
+    {
+        "country_name": "Laos",
+        "population": "9,479,747",
+        "yearly_change": "0.47 %",
+        "median_age": "34.5",
+        "fertility_rate": "2.70",
+        "urban_population": "5,101,582"
+    },
+    {
+        "country_name": "Hong Kong",
+        "population": "8,041,048",
+        "yearly_change": "-0.16 %",
+        "median_age": "53.4",
+        "fertility_rate": "1.33",
+        "urban_population": "N.A."
+    },
+    {
+        "country_name": "Sierra Leone",
+        "population": "12,944,873",
+        "yearly_change": "1.26 %",
+        "median_age": "26.5",
+        "fertility_rate": "4.32",
+        "urban_population": "7,724,557"
+    },
+    {
+        "country_name": "Togo",
+        "population": "15,415,499",
+        "yearly_change": "1.77 %",
+        "median_age": "24.4",
+        "fertility_rate": "4.35",
+        "urban_population": "9,267,258"
+    },
+    {
+        "country_name": "Papua New Guinea",
+        "population": "14,204,066",
+        "yearly_change": "1.23 %",
+        "median_age": "28.0",
+        "fertility_rate": "3.59",
+        "urban_population": "3,325,555"
+    },
+    {
+        "country_name": "Switzerland",
+        "population": "9,817,721",
+        "yearly_change": "0.26 %",
+        "median_age": "47.5",
+        "fertility_rate": "1.54",
+        "urban_population": "8,038,235"
+    },
+    {
+        "country_name": "Israel",
+        "population": "12,720,416",
+        "yearly_change": "1.13 %",
+        "median_age": "34.2",
+        "fertility_rate": "3.04",
+        "urban_population": "11,997,347"
+    },
+    {
+        "country_name": "Serbia",
+        "population": "7,083,833",
+        "yearly_change": "-0.82 %",
+        "median_age": "48.8",
+        "fertility_rate": "1.46",
+        "urban_population": "5,121,466"
+    },
+    {
+        "country_name": "Austria",
+        "population": "9,130,699",
+        "yearly_change": "-0.12 %",
+        "median_age": "49.3",
+        "fertility_rate": "1.53",
+        "urban_population": "6,294,219"
+    },
+    {
+        "country_name": "Belarus",
+        "population": "8,634,225",
+        "yearly_change": "-0.34 %",
+        "median_age": "44.0",
+        "fertility_rate": "1.71",
+        "urban_population": "7,566,424"
+    },
+    {
+        "country_name": "Tajikistan",
+        "population": "16,208,250",
+        "yearly_change": "1.47 %",
+        "median_age": "26.9",
+        "fertility_rate": "3.61",
+        "urban_population": "6,242,806"
+    },
+    {
+        "country_name": "Hungary",
+        "population": "8,470,230",
+        "yearly_change": "-0.49 %",
+        "median_age": "48.0",
+        "fertility_rate": "1.49",
+        "urban_population": "6,774,040"
+    },
+    {
+        "country_name": "United Arab Emirates",
+        "population": "10,425,287",
+        "yearly_change": "-0.25 %",
+        "median_age": "34.5",
+        "fertility_rate": "1.42",
+        "urban_population": "N.A."
+    },
+    {
+        "country_name": "Honduras",
+        "population": "13,830,799",
+        "yearly_change": "0.72 %",
+        "median_age": "36.0",
+        "fertility_rate": "2.49",
+        "urban_population": "9,792,880"
+    },
+    {
+        "country_name": "Sweden",
+        "population": "11,389,196",
+        "yearly_change": "0.34 %",
+        "median_age": "43.8",
+        "fertility_rate": "1.85",
+        "urban_population": "10,837,418"
+    },
+    {
+        "country_name": "Azerbaijan",
+        "population": "11,064,999",
+        "yearly_change": "-0.07 %",
+        "median_age": "40.3",
+        "fertility_rate": "2.08",
+        "urban_population": "7,832,676"
+    },
+    {
+        "country_name": "Portugal",
+        "population": "9,084,576",
+        "yearly_change": "-0.55 %",
+        "median_age": "52.2",
+        "fertility_rate": "1.29",
+        "urban_population": "7,133,527"
+    },
+    {
+        "country_name": "Jordan",
+        "population": "12,932,410",
+        "yearly_change": "0.74 %",
+        "median_age": "34.9",
+        "fertility_rate": "2.77",
+        "urban_population": "N.A."
+    },
+    {
+        "country_name": "Greece",
+        "population": "9,029,249",
+        "yearly_change": "-0.56 %",
+        "median_age": "53.4",
+        "fertility_rate": "1.30",
+        "urban_population": "8,753,104"
+    },
+    {
+        "country_name": "Czech Republic (Czechia)",
+        "population": "10,545,581",
+        "yearly_change": "-0.06 %",
+        "median_age": "46.9",
+        "fertility_rate": "1.64",
+        "urban_population": "8,262,436"
+    },
+    {
+        "country_name": "Dominican Republic",
+        "population": "12,795,809",
+        "yearly_change": "0.24 %",
+        "median_age": "37.5",
+        "fertility_rate": "2.36",
+        "urban_population": "12,208,878"
+    },
+    {
+        "country_name": "South Sudan",
+        "population": "19,962,712",
+        "yearly_change": "1.63 %",
+        "median_age": "24.4",
+        "fertility_rate": "4.74",
+        "urban_population": "9,131,580"
+    },
+    {
+        "country_name": "Cuba",
+        "population": "10,162,396",
+        "yearly_change": "-0.64 %",
+        "median_age": "50.3",
+        "fertility_rate": "1.62",
+        "urban_population": "9,101,476"
+    },
+    {
+        "country_name": "Haiti",
+        "population": "14,877,779",
+        "yearly_change": "0.61 %",
+        "median_age": "32.7",
+        "fertility_rate": "2.96",
+        "urban_population": "10,520,388"
+    },
+    {
+        "country_name": "Burundi",
+        "population": "25,324,761",
+        "yearly_change": "2.19 %",
+        "median_age": "22.7",
+        "fertility_rate": "5.45",
+        "urban_population": "7,182,692"
+    },
+    {
+        "country_name": "Benin",
+        "population": "24,280,477",
+        "yearly_change": "2.00 %",
+        "median_age": "23.3",
+        "fertility_rate": "4.87",
+        "urban_population": "15,661,166"
+    },
+    {
+        "country_name": "Rwanda",
+        "population": "23,048,005",
+        "yearly_change": "1.54 %",
+        "median_age": "27.2",
+        "fertility_rate": "4.10",
+        "urban_population": "6,483,462"
+    },
+    {
+        "country_name": "Guinea",
+        "population": "25,971,806",
+        "yearly_change": "1.90 %",
+        "median_age": "24.0",
+        "fertility_rate": "4.74",
+        "urban_population": "14,400,309"
+    },
+    {
+        "country_name": "Belgium",
+        "population": "12,220,765",
+        "yearly_change": "0.05 %",
+        "median_age": "45.4",
+        "fertility_rate": "1.71",
+        "urban_population": "N.A."
+    },
+    {
+        "country_name": "Zimbabwe",
+        "population": "23,947,923",
+        "yearly_change": "1.29 %",
+        "median_age": "26.9",
+        "fertility_rate": "3.63",
+        "urban_population": "13,627,246"
+    },
+    {
+        "country_name": "Bolivia",
+        "population": "15,839,563",
+        "yearly_change": "0.73 %",
+        "median_age": "34.3",
+        "fertility_rate": "2.75",
+        "urban_population": "12,843,627"
+    },
+    {
+        "country_name": "Tunisia",
+        "population": "13,796,600",
+        "yearly_change": "0.29 %",
+        "median_age": "39.9",
+        "fertility_rate": "2.20",
+        "urban_population": "11,138,512"
+    },
+    {
+        "country_name": "Chad",
+        "population": "34,031,311",
+        "yearly_change": "2.01 %",
+        "median_age": "22.0",
+        "fertility_rate": "5.80",
+        "urban_population": "13,219,846"
+    },
+    {
+        "country_name": "Cambodia",
+        "population": "21,860,919",
+        "yearly_change": "0.56 %",
+        "median_age": "34.0",
+        "fertility_rate": "2.52",
+        "urban_population": "9,061,599"
+    },
+    {
+        "country_name": "Syria",
+        "population": "33,129,321",
+        "yearly_change": "0.89 %",
+        "median_age": "34.3",
+        "fertility_rate": "2.84",
+        "urban_population": "24,474,813"
+    },
+    {
+        "country_name": "Ecuador",
+        "population": "23,316,457",
+        "yearly_change": "0.63 %",
+        "median_age": "37.0",
+        "fertility_rate": "2.44",
+        "urban_population": "17,174,029"
+    },
+    {
+        "country_name": "Guatemala",
+        "population": "26,920,712",
+        "yearly_change": "0.98 %",
+        "median_age": "33.0",
+        "fertility_rate": "2.90",
+        "urban_population": "18,121,217"
+    },
+    {
+        "country_name": "Somalia",
+        "population": "34,922,447",
+        "yearly_change": "2.33 %",
+        "median_age": "20.5",
+        "fertility_rate": "6.12",
+        "urban_population": "22,865,427"
+    },
+    {
+        "country_name": "Senegal",
+        "population": "33,186,859",
+        "yearly_change": "1.98 %",
+        "median_age": "24.1",
+        "fertility_rate": "4.65",
+        "urban_population": "21,942,641"
+    },
+    {
+        "country_name": "Netherlands",
+        "population": "17,165,372",
+        "yearly_change": "-0.20 %",
+        "median_age": "47.4",
+        "fertility_rate": "1.66",
+        "urban_population": "16,927,938"
+    },
+    {
+        "country_name": "Malawi",
+        "population": "38,142,973",
+        "yearly_change": "1.91 %",
+        "median_age": "24.4",
+        "fertility_rate": "4.25",
+        "urban_population": "13,360,225"
+    },
+    {
+        "country_name": "Romania",
+        "population": "16,259,787",
+        "yearly_change": "-0.64 %",
+        "median_age": "47.4",
+        "fertility_rate": "1.62",
+        "urban_population": "10,932,389"
+    },
+    {
+        "country_name": "Mali",
+        "population": "43,585,530",
+        "yearly_change": "2.14 %",
+        "median_age": "21.5",
+        "fertility_rate": "5.92",
+        "urban_population": "27,825,131"
+    },
+    {
+        "country_name": "Zambia",
+        "population": "39,120,917",
+        "yearly_change": "2.16 %",
+        "median_age": "22.8",
+        "fertility_rate": "4.66",
+        "urban_population": "25,576,780"
+    },
+    {
+        "country_name": "Kazakhstan",
+        "population": "24,024,045",
+        "yearly_change": "0.66 %",
+        "median_age": "34.2",
+        "fertility_rate": "2.76",
+        "urban_population": "15,866,113"
+    },
+    {
+        "country_name": "Burkina Faso",
+        "population": "43,432,184",
+        "yearly_change": "2.08 %",
+        "median_age": "22.7",
+        "fertility_rate": "5.23",
+        "urban_population": "21,677,231"
+    },
+    {
+        "country_name": "Sri Lanka",
+        "population": "21,813,968",
+        "yearly_change": "-0.23 %",
+        "median_age": "41.2",
+        "fertility_rate": "2.21",
+        "urban_population": "6,574,761"
+    },
+    {
+        "country_name": "Chile",
+        "population": "20,319,307",
+        "yearly_change": "0.02 %",
+        "median_age": "46.1",
+        "fertility_rate": "1.65",
+        "urban_population": "19,027,962"
+    },
+    {
+        "country_name": "C\u00f4te d'Ivoire",
+        "population": "51,263,671",
+        "yearly_change": "1.93 %",
+        "median_age": "23.1",
+        "fertility_rate": "4.68",
+        "urban_population": "34,645,580"
+    },
+    {
+        "country_name": "Australia",
+        "population": "32,814,113",
+        "yearly_change": "0.69 %",
+        "median_age": "41.8",
+        "fertility_rate": "1.83",
+        "urban_population": "30,186,022"
+    },
+    {
+        "country_name": "Taiwan",
+        "population": "22,412,982",
+        "yearly_change": "-0.58 %",
+        "median_age": "54.2",
+        "fertility_rate": "1.15",
+        "urban_population": "19,917,086"
+    },
+    {
+        "country_name": "Niger",
+        "population": "65,593,043",
+        "yearly_change": "2.91 %",
+        "median_age": "19.0",
+        "fertility_rate": "6.95",
+        "urban_population": "19,464,442"
+    },
+    {
+        "country_name": "North Korea",
+        "population": "26,561,619",
+        "yearly_change": "-0.14 %",
+        "median_age": "42.1",
+        "fertility_rate": "1.91",
+        "urban_population": "19,885,471"
+    },
+    {
+        "country_name": "Nepal",
+        "population": "35,323,921",
+        "yearly_change": "0.06 %",
+        "median_age": "40.1",
+        "fertility_rate": "1.93",
+        "urban_population": "13,496,018"
+    },
+    {
+        "country_name": "Cameroon",
+        "population": "50,573,042",
+        "yearly_change": "1.84 %",
+        "median_age": "24.0",
+        "fertility_rate": "4.60",
+        "urban_population": "36,415,328"
+    },
+    {
+        "country_name": "Madagascar",
+        "population": "54,048,128",
+        "yearly_change": "1.91 %",
+        "median_age": "24.8",
+        "fertility_rate": "4.11",
+        "urban_population": "31,157,741"
+    },
+    {
+        "country_name": "Venezuela",
+        "population": "37,023,115",
+        "yearly_change": "0.28 %",
+        "median_age": "38.0",
+        "fertility_rate": "2.28",
+        "urban_population": "N.A."
+    },
+    {
+        "country_name": "Angola",
+        "population": "77,420,346",
+        "yearly_change": "2.54 %",
+        "median_age": "20.7",
+        "fertility_rate": "5.55",
+        "urban_population": "61,131,579"
+    },
+    {
+        "country_name": "Saudi Arabia",
+        "population": "44,562,476",
+        "yearly_change": "0.42 %",
+        "median_age": "40.2",
+        "fertility_rate": "2.34",
+        "urban_population": "40,708,624"
+    },
+    {
+        "country_name": "Yemen",
+        "population": "48,080,021",
+        "yearly_change": "1.10 %",
+        "median_age": "29.2",
+        "fertility_rate": "3.84",
+        "urban_population": "27,630,164"
+    },
+    {
+        "country_name": "Canada",
+        "population": "45,669,441",
+        "yearly_change": "0.47 %",
+        "median_age": "45.5",
+        "fertility_rate": "1.53",
+        "urban_population": "39,233,850"
+    },
+    {
+        "country_name": "Ghana",
+        "population": "52,016,125",
+        "yearly_change": "1.43 %",
+        "median_age": "26.9",
+        "fertility_rate": "3.89",
+        "urban_population": "37,518,298"
+    },
+    {
+        "country_name": "Mozambique",
+        "population": "65,312,929",
+        "yearly_change": "2.08 %",
+        "median_age": "22.9",
+        "fertility_rate": "4.89",
+        "urban_population": "37,472,562"
+    },
+    {
+        "country_name": "Poland",
+        "population": "33,294,567",
+        "yearly_change": "-0.60 %",
+        "median_age": "51.2",
+        "fertility_rate": "1.42",
+        "urban_population": "22,799,232"
+    },
+    {
+        "country_name": "Malaysia",
+        "population": "40,550,365",
+        "yearly_change": "0.41 %",
+        "median_age": "40.5",
+        "fertility_rate": "2.01",
+        "urban_population": "36,439,872"
+    },
+    {
+        "country_name": "Morocco",
+        "population": "46,165,501",
+        "yearly_change": "0.43 %",
+        "median_age": "38.2",
+        "fertility_rate": "2.42",
+        "urban_population": "35,257,592"
+    },
+    {
+        "country_name": "Peru",
+        "population": "40,373,987",
+        "yearly_change": "0.41 %",
+        "median_age": "39.4",
+        "fertility_rate": "2.27",
+        "urban_population": "35,667,261"
+    },
+    {
+        "country_name": "Uzbekistan",
+        "population": "42,942,485",
+        "yearly_change": "0.47 %",
+        "median_age": "35.4",
+        "fertility_rate": "2.43",
+        "urban_population": "25,198,267"
+    },
+    {
+        "country_name": "Iraq",
+        "population": "70,940,126",
+        "yearly_change": "1.51 %",
+        "median_age": "27.5",
+        "fertility_rate": "3.68",
+        "urban_population": "65,559,682"
+    },
+    {
+        "country_name": "Ukraine",
+        "population": "35,219,042",
+        "yearly_change": "-0.77 %",
+        "median_age": "46.6",
+        "fertility_rate": "1.44",
+        "urban_population": "28,634,407"
+    },
+    {
+        "country_name": "Sudan",
+        "population": "81,192,823",
+        "yearly_change": "1.73 %",
+        "median_age": "25.1",
+        "fertility_rate": "4.43",
+        "urban_population": "42,261,243"
+    },
+    {
+        "country_name": "Algeria",
+        "population": "60,923,386",
+        "yearly_change": "0.88 %",
+        "median_age": "34.9",
+        "fertility_rate": "3.05",
+        "urban_population": "48,531,498"
+    },
+    {
+        "country_name": "Spain",
+        "population": "43,637,410",
+        "yearly_change": "-0.41 %",
+        "median_age": "53.2",
+        "fertility_rate": "1.33",
+        "urban_population": "39,072,958"
+    },
+    {
+        "country_name": "Afghanistan",
+        "population": "64,682,974",
+        "yearly_change": "1.19 %",
+        "median_age": "28.4",
+        "fertility_rate": "4.56",
+        "urban_population": "25,498,515"
+    },
+    {
+        "country_name": "Colombia",
+        "population": "55,957,824",
+        "yearly_change": "0.06 %",
+        "median_age": "43.9",
+        "fertility_rate": "1.82",
+        "urban_population": "48,628,586"
+    },
+    {
+        "country_name": "South Korea",
+        "population": "46,829,925",
+        "yearly_change": "-0.69 %",
+        "median_age": "56.5",
+        "fertility_rate": "1.11",
+        "urban_population": "43,616,033"
+    },
+    {
+        "country_name": "Kenya",
+        "population": "91,575,089",
+        "yearly_change": "1.34 %",
+        "median_age": "28.1",
+        "fertility_rate": "3.52",
+        "urban_population": "44,184,721"
+    },
+    {
+        "country_name": "Myanmar",
+        "population": "62,253,430",
+        "yearly_change": "0.11 %",
+        "median_age": "37.3",
+        "fertility_rate": "2.17",
+        "urban_population": "29,391,985"
+    },
+    {
+        "country_name": "South Africa",
+        "population": "75,517,920",
+        "yearly_change": "0.51 %",
+        "median_age": "33.9",
+        "fertility_rate": "2.41",
+        "urban_population": "58,056,843"
+    },
+    {
+        "country_name": "Tanzania",
+        "population": "129,386,839",
+        "yearly_change": "2.28 %",
+        "median_age": "22.3",
+        "fertility_rate": "4.92",
+        "urban_population": "76,542,196"
+    },
+    {
+        "country_name": "Italy",
+        "population": "54,381,673",
+        "yearly_change": "-0.56 %",
+        "median_age": "53.6",
+        "fertility_rate": "1.33",
+        "urban_population": "44,670,873"
+    },
+    {
+        "country_name": "France",
+        "population": "67,586,728",
+        "yearly_change": "-0.03 %",
+        "median_age": "45.9",
+        "fertility_rate": "1.85",
+        "urban_population": "62,373,862"
+    },
+    {
+        "country_name": "United Kingdom",
+        "population": "74,081,981",
+        "yearly_change": "0.20 %",
+        "median_age": "44.5",
+        "fertility_rate": "1.75",
+        "urban_population": "68,007,652"
+    },
+    {
+        "country_name": "Thailand",
+        "population": "65,940,489",
+        "yearly_change": "-0.52 %",
+        "median_age": "49.7",
+        "fertility_rate": "1.53",
+        "urban_population": "45,409,734"
+    },
+    {
+        "country_name": "Germany",
+        "population": "80,103,978",
+        "yearly_change": "-0.26 %",
+        "median_age": "49.2",
+        "fertility_rate": "1.59",
+        "urban_population": "66,825,911"
+    },
+    {
+        "country_name": "Turkey",
+        "population": "97,139,570",
+        "yearly_change": "0.26 %",
+        "median_age": "41.7",
+        "fertility_rate": "2.08",
+        "urban_population": "82,192,061"
+    },
+    {
+        "country_name": "Vietnam",
+        "population": "109,605,011",
+        "yearly_change": "0.13 %",
+        "median_age": "41.2",
+        "fertility_rate": "2.06",
+        "urban_population": "65,711,413"
+    },
+    {
+        "country_name": "Iran",
+        "population": "103,098,075",
+        "yearly_change": "0.41 %",
+        "median_age": "40.2",
+        "fertility_rate": "2.15",
+        "urban_population": "80,441,107"
+    },
+    {
+        "country_name": "DR Congo",
+        "population": "194,488,658",
+        "yearly_change": "2.15 %",
+        "median_age": "22.1",
+        "fertility_rate": "5.96",
+        "urban_population": "125,931,197"
+    }
+]
